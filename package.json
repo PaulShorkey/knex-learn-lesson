@@ -1,0 +1,26 @@
+{
+  "name": "knex-learn-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulShorkey/knex-learn-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulShorkey/knex-learn-lesson/issues"
+  },
+  "homepage": "https://github.com/PaulShorkey/knex-learn-lesson#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.21",
+    "nodemon": "^2.0.12",
+    "pg": "^8.7.1"
+  }
+}
