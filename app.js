@@ -2,7 +2,7 @@
 const express = require('express');
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = 8000;
 const knex = require('knex')(require('./knexfile.js')['development']);
 
 app.use(express.json());
